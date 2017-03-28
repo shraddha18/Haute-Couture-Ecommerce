@@ -1,0 +1,210 @@
+.gymwear
+{
+ padding-right:60px;
+}
+.mentable
+{
+ padding-left:0px;
+}
+.namerate
+{
+ padding-left:80px;
+ font-weight:bold;
+}
+/*.login
+{
+ text-decoration:none;
+}*/
+.logo
+{
+ padding-left:25px;
+ padding-top:0px;
+ padding-bottom:0px;
+} 
+.head
+{
+ padding-left:440px;
+}
+.body{
+  
+  width: 100%;
+ max-width: 960px; 
+margin: 0 auto;
+}
+.head
+{
+ display:inline;
+}
+.content
+{
+background-color:red;
+width:800px;
+display:inline-block; 
+/*vertical-align:top;*/
+height:1500px;
+}
+
+
+.img1
+{
+ 
+top:2px;
+ 
+left:0px;
+ height:35%;
+ 
+width:35%;
+ align:left;
+
+
+} 
+
+
+
+.header-con
+{
+ top:10%;
+
+ width:1000px;
+
+ height:150px;
+ 
+margin:0 auto;
+
+ padding:0px;
+
+
+ position:relative;
+
+
+}
+
+
+
+/*h1
+{
+
+  webkit-margin-before:0.67em;
+ 
+ webkit-margin-after:0.67em;
+ 
+ webkit-margin-start:0px;
+  
+webkit-margin-end:0px;
+
+
+}
+*/
+.nav{
+ 
+  /*  top:50%;*/
+  padding-top:0px;
+   
+  width:996px;
+   
+  height:31px;
+  
+   margin:0 auto;
+ 
+    position:relative;
+     
+ }
+
+
+
+.navigation
+{
+
+
+<center></center>
+	
+    top:50%;
+   width:100%;
+ 
+   list-style-type:none;
+ 
+  padding-left:25px;
+ 
+  /* overflow:hidden;
+ */
+  /* width: 100%;*/
+ 
+ margin: 20px 0; 
+
+
+
+
+}
+
+
+
+.navigation1{
+ 
+   padding:0;
+	
+/*background-color:cyan;
+	
+border:yellow solid 1px;*/
+   
+ /*text-color:white;*/
+
+	/*text-decoration:underline;*/
+
+	display: inline;
+  
+  float:left;
+	
+/*color: red;*/
+  
+  width:16%;
+ 
+   float:left;
+ 
+   text-align:center;
+
+
+}
+
+
+
+.navlink
+{
+display:block;
+text-emphasis:circle;
+font-weight:bold;
+font-style:;
+color:white ;
+
+text-decoration:none;
+width:100%;
+
+
+/*background-color:#dddddd;*/
+ text-align: center;
+ 
+ padding: 8px 0;
+
+
+/* background: #cdeb8e; // Old browsers */
+ 
+/* background: -moz-linear-gradient(top,
+    #cdeb8e 0%, #b0ca34 100%); // FF3.6+ */
+ /*background: -webkit-gradient(linear, 
+    left top, left bottom, color-stop(0%,#cdeb8e),
+ 
+   color-stop(100%,#b0ca34)); // Chrome,Safari4+ */
+ 
+ /*background: -webkit-linear-gradient(top,  
+    #cdeb8e 0%,#b0ca34 100%); // Chrome10+,Safari5.1+ */
+  
+/*background: -o-linear-gradient(top,  
+    #cdeb8e 0%,#b0ca34 100%);  Opera 11.10+ */
+background: linear-gradient(to bottom,  
+    #B2C2B2 0%,#FF1919 100%); /* W3C standard, IE10+ */
+ 
+ filter: progid:DXImageTransform.Microsoft.gradient( 
+    startColorstr='#B2C2B2', 
+    endColorstr='#FF1919,GradientType=0 ); /* IE6-9 */
+
+ 
+}
